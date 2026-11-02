@@ -1,7 +1,7 @@
 // كل النصوص واللينكات هنا. عدّل أي حاجة وسيب باقي الملفات زي ما هي.
 const C = {
   video: "", // معرّف فيديو يوتيوب فقط (الجزء بعد v= في الرابط)
-  links: { mac: "https://github.com/ashrafabdulmn3m/Hawwel/releases/download/macos-v1.2.1/Hawwel-1.2.1.dmg", win: "https://github.com/ashrafabdulmn3m/Hawwel/releases/download/win-v1.0.3/Hawwel-Setup.exe", gmail: "mailto:hawwelapp@gmail.com", facebook: "#", instagram: "https://www.instagram.com/hawwelapp_/", github: "https://github.com/ashrafabdulmn3m/Hawwel", youtube: "#", dev: "#" },
+  links: { mac: "https://github.com/ashrafabdulmn3m/Hawwel/releases/download/macos-v1.3.0/Hawwel-1.3.0.dmg", win: "https://github.com/ashrafabdulmn3m/Hawwel/releases/download/win-v1.1.0/Hawwel-Setup.exe", gmail: "mailto:hawwelapp@gmail.com", facebook: "#", instagram: "https://www.instagram.com/hawwelapp_/", github: "https://github.com/ashrafabdulmn3m/Hawwel", youtube: "https://www.youtube.com/@HawwelApp", dev: "#" },
   nav: [["المشكلة", "#problem"], ["المميزات", "#features"], ["جرّبه", "#try"], ["التحميل", "#download"], ["الأسئلة", "#faq"]],
   hero: {
     title: "كتبت بلغة الكيبورد الغلط؟ <br><span class='blue'>صلّحها بضغطة.</span>",
